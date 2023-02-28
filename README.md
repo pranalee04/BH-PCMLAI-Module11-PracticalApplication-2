@@ -14,10 +14,10 @@ Evaluation – Which model best meets the business objectives?
 Deployment – How do stakeholders access the results?
 
 **Dataset:**
-In this practicle application, I explored a dataset use car vehical dataset from kaggle. The original dataset contained information on 3 million used cars however the [prompt.ipynb](https://github.com/pranalee04/BH-PCMLAI-Module11-PracticalApplication-2/blob/main/dataset/vehicles.csv) dataset contains information on 426K cars to ensure speed of processing for the practical assignment.
+In this practicle application, I explored a dataset use car vehical dataset from kaggle. The original dataset contained information on 3 million used cars however the [vehicles.csv](https://github.com/pranalee04/BH-PCMLAI-Module11-PracticalApplication-2/blob/main/dataset/vehicles.csv) dataset contains information on 426K cars to ensure speed of processing for the practical assignment.
 **Programming language** 
 The programming language used is Python, and the libraries used were: Pandas, Seaborn, Matplotlib, and numpy
 
 **Code and Analysis:**
 The complete analysis, including observations,commentss so all the work done is contained in the following Jupiter Notebook:
-[prompt.ipynb](https://github.com/pranalee04/BH-PCMLAI-Module11-PracticalApplication-2/blob/main/notebook/practical-assignment-2.ipynb)
+[practical-assignment-2.ipynb](https://github.com/pranalee04/BH-PCMLAI-Module11-PracticalApplication-2/blob/main/notebook/practical-assignment-2.ipynb)
